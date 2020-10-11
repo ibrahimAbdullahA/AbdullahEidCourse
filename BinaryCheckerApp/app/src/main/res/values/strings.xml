@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BinaryCheckerApp</string>
+    <string name="_switch0">0</string>
+    <string name="_switch3">3</string>
+    <string name="_switch4">4</string>
+    <string name="_switch7">7</string>
+    <string name="_switch1">1</string>
+    <string name="_switch2">2</string>
+    <string name="_switch5">5</string>
+    <string name="_switch6">6</string>
+    <string name="textview">value</string>
+    <string name="enter_a_number">Enter a number to match</string>
+</resources>
